@@ -44,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		379604532BC7F07E00589FEB /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		663F51B7262200520023385E /* EnvironmentUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnvironmentUtil.h; sourceTree = "<group>"; };
 		663F51B8262200CA0023385E /* EnvironmentUtil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnvironmentUtil.m; sourceTree = "<group>"; };
 		76E65CA21D4CA143009B7AF1 /* DeviceUID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceUID.h; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 		DA5891CF1BA9A9FC002B4DB2 = {
 			isa = PBXGroup;
 			children = (
+				379604532BC7F07E00589FEB /* PrivacyInfo.xcprivacy */,
 				DA5891DA1BA9A9FC002B4DB2 /* RNDeviceInfo */,
 				DA5891D91BA9A9FC002B4DB2 /* Products */,
 			);
